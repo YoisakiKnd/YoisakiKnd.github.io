@@ -22,17 +22,15 @@
 `签到` 进行签到<br />
 ### 状态
 `状态` 查看机器人运行状态
-### 偷窥
-`cb peek` 偷窥bot主的屏幕
 ### 反馈
-`.send+反馈内容`向维护组成员发送反馈
 > [!WARNING]
-> 请合理使用
+> 请加入Both用户群或直接向开发者发送反馈
 
 
 ### steam订阅
 `steambind` [STEAM ID/steam好友码] 绑定steam<br />
 `steamcheck` 呼出本群订阅列表<br />
+`steaminfo` 呼出个人信息
 
 ## 娱乐功能
 ### 今日运势
