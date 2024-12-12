@@ -10,7 +10,7 @@
 [HarukiBot帮助](/thirdparty/Haruki-Bot)
 
 ### TsuguBot帮助
-<br />
+葱喵Bot的部分功能由TsuguBot提供，您可以在这一页找到TsuguBot的相关帮助<br />
 [TsuguBot帮助](/thirdparty/Tsugu-Bot)
 
 ### MaiMaiDX
