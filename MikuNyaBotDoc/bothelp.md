@@ -5,12 +5,12 @@
 葱喵Bot的部分功能由ChieriBot提供，您可以在这一页找到ChieriBot的相关帮助<br />
 [ChieriBot帮助](/thirdparty/Chieri-Bot)
 
-### UniBot帮助
-葱喵Bot的部分功能由UniBot提供，您可以在这一页找到UniBot的相关帮助<br />
-[Unibot帮助](/thirdparty/Uni-Bot)
+### HarukiBot帮助
+葱喵Bot的部分功能由HarukiBot提供，您可以在这一页找到HarukiBot的相关帮助<br />
+[HarukiBot帮助](/thirdparty/Haruki-Bot)
 
 ### TsuguBot帮助
-葱喵Bot的部分功能由UniBot提供，您可以在这一页找到UniBot的相关帮助<br />
+<br />
 [TsuguBot帮助](/thirdparty/Tsugu-Bot)
 
 ### MaiMaiDX

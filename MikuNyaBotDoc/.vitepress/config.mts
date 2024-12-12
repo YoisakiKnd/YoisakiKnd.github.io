@@ -39,7 +39,7 @@ export default defineConfig({
         text: '第三方Bot相关帮助',
         items: [
           { text: 'ChieriBot帮助', link: '/thirdparty/Chieri-Bot'},
-          { text: 'UniBot帮助', link: '/thirdparty/Uni-Bot'},
+          { text: 'HarukiBot帮助', link: '/thirdparty/Haruki-Bot'},
           { text: 'TsuguBot帮助', link: '/thirdparty/Tsugu-Bot'}
         ]
       }
